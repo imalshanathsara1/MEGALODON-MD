@@ -14,7 +14,7 @@ async (conn, mek, m, { from }) => {
             {
                 name: "DevOne",
                 number: "+12345678901",
-                image: "https://files.catbox.moe/abc123.jpg"
+                image: "https://avatars.githubusercontent.com/u/142110420?v=4"
             },
             {
                 name: "DevTwo",
